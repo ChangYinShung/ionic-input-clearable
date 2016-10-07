@@ -6,7 +6,7 @@
     "sw2sonic <sw2hk-info@yahoo.com.hk>"
   ],
   "description": "An Ionic AngularJS directive for adding a clear button to an input element.",
-  "main": "demo_project/www/sw2.ionic.input-clearable.js",
+  "main": ["sw2.ionic.input-clearable.css","sw2.ionic.input-clearable.js"],
   "keywords": [
     "ionic",
     "input",
